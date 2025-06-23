@@ -12,9 +12,12 @@ public:
             maximum = max(piles[i], maximum); // ✅ use max here
         }
 
-        int s = 1;            // ✅ minimum speed should be 1
+        int s = sum/h;            // ✅ minimum speed should be 1
         int e = maximum;      // ✅ max speed = largest pile
         int ans = e;
+        if(s==0) {
+            s=1;
+        }
 
         while (s <= e) {
             int mid = s + (e - s) / 2;
@@ -22,7 +25,7 @@ public:
 
             for (int i = 0; i < piles.size(); i++) {
                 count += piles[i] / mid;
-                if (piles[i] % mid) count++; // ✅ same as ceil(pile / mid)
+                if (piles[i] % mid) count++; // ✅ for odd ones
             }
 
             if (count > h) {
