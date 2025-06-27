@@ -7,24 +7,26 @@ public:
        long long int cursum=0;
        long long int maxsum=0;
         unordered_set<int> st;
-        for(int j=0;j<n;j++){
-            while(st.count(nums[j])){
-                st.erase(nums[i]);
+        
+          while(j<n){
+        while(st.count(nums[j])){
                 cursum-=nums[i];
+                st.erase(nums[i]);
                 i++;
             }
-            cursum+=nums[j];
+
             st.insert(nums[j]);
+            cursum+=nums[j];
 
-            if(j-i+1==k){
-                maxsum=max(maxsum,cursum);
-                st.erase(nums[i]);
+            while(j-i+1==k){
+                maxsum=max(cursum,maxsum);
                 cursum-=nums[i];
+                st.erase(nums[i]);
                 i++;
-            }
-           
 
-        }
+            }
+         j++;
+           }
 
         return maxsum;
     }
