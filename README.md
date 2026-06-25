@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/vatan-prakash/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/vatan-prakash/DSA/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/vatan-prakash/DSA/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/vatan-prakash/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/vatan-prakash/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -32,12 +33,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/vatan-prakash/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatan-prakash/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vatan-prakash/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vatan-prakash/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vatan-prakash/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatan-prakash/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vatan-prakash/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vatan-prakash/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vatan-prakash/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -48,5 +51,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vatan-prakash/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vatan-prakash/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
