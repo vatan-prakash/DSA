@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vatan-prakash/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/vatan-prakash/DSA/tree/master/0031-next-permutation) |
 | [0238-product-of-array-except-self](https://github.com/vatan-prakash/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/vatan-prakash/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vatan-prakash/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatan-prakash/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vatan-prakash/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
